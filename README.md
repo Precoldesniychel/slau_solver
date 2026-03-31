@@ -98,10 +98,15 @@ $$A = L \cdot U$$
 
 
 git clone <(https://github.com/Precoldesniychel/slau-solver.git)>
+
 cd <slau_solver>
+
 mkdir build
+
 cd build
+
 cmake ..
+
 make
 
 ### Запуск
