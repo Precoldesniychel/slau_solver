@@ -90,9 +90,9 @@ $$A = L \cdot U$$
 ### Сборка
 
 
-git clone <(https://github.com/Precoldesniychel/slau-solver.git)>
+git clone https://github.com/Precoldesniychel/slau_solver.git
 
-cd <slau_solver>
+cd slau_solver-main
 
 mkdir build
 
