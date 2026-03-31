@@ -96,7 +96,7 @@ $$A = L \cdot U$$
 
 ### Сборка
 
-```bash
+
 git clone <(https://github.com/Precoldesniychel/slau-solver.git)>
 cd <slau_solver>
 mkdir build
@@ -107,7 +107,6 @@ make
 ### Запуск
 ./solver
 
-```bash
 
 ### Выводы
 1. Производительность: LU-разложение показывает сравнимое время с методом Гаусса при решении одной системы
